@@ -1,5 +1,5 @@
 # CS230-Journal
-##  Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+###  Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
   The client was The Gaming Room. They wanted a secure, scalable, turn-based drawing game (Draw It or Lose It) that works on Windows, macOS, Linux, and mobile with centralized game data.
 
 2. What did you do particularly well in developing this documentation?
