@@ -17,3 +17,4 @@
 ---
 **How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?**
   I used OOP principles, UML diagrams, and design patterns. In the future, I’d continue with clear diagrams and early stakeholder feedback.
+---
