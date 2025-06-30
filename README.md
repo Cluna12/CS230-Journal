@@ -2,7 +2,7 @@
 ###  Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
   The client was The Gaming Room. They wanted a secure, scalable, turn-based drawing game (Draw It or Lose It) that works on Windows, macOS, Linux, and mobile with centralized game data.
 ---
-### What did you do particularly well in developing this documentation?
+### What did you do particularly well in developing this documentation? ###
   I clearly defined requirements, used a strong domain model, and applied the Singleton pattern effectively.
 ---
 ### What about the process of working through a design document did you find helpful when developing the code?
