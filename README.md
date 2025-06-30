@@ -6,7 +6,7 @@
   I clearly defined requirements, used a strong domain model, and applied the Singleton pattern effectively.
   
 - What about the process of working through a design document did you find helpful when developing the code?
-  It helped organize ideas, clarify constraints, and made the coding process smoother. Increased the understanding of the overall code that would need to be implemented
+  --It helped organize ideas, clarify constraints, and made the coding process smoother. Increased the understanding of the overall code that would need to be implemented
 
 - If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
   I would add more detail and visuals to the system architecture section to better show data flow.
